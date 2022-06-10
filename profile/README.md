@@ -2,7 +2,11 @@
 
 PaperMC is a Minecraft Software organization focusing on improving the Minecraft ecosystem with faster and more secure software.
 
-We have a Discord community server that anyone can join:
+**Quickstart:**
+- Learn more on [PaperMC.io](https://papermc.io)
+- You can download Paper [here](https://papermc.io/downloads)
+- Support us by [sponsoring](https://papermc.io/sponsors) PaperMC
+- If you feel like talking to us, or need help you can either [join our Forum](https://forums.papermc.io/), or directly our Discord server:
 
 <a href="https://discord.gg/papermc">
          <img alt="PaperMC Discord" src="https://discord.com/api/guilds/289587909051416579/widget.png?style=banner2">
